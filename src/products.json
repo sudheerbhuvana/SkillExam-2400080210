@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Mouse",
+        "price": 25.99,
+        "description": "A smooth and responsive wireless mouse."
+
+    },
+    {
+        "id": 2,
+        "name": "Mechanical Keyboard",
+        "price": 79.99,
+        "description": "A durable mechanical keyboard with customizable keys."
+    },
+    {
+        "id": 3,
+        "name": "HD Monitor",
+        "price": 199.99,
+        "description": "A 24-inch HD monitor with vibrant colors and sharp images."
+    }
+]
